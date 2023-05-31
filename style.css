@@ -1,0 +1,10 @@
+:root {
+    --primary: #FF6922;
+    --secondary: #FF6922;
+    --light: #EFFDF5;
+    --dark: #0f0e0e;
+}
+
+#navbar {
+    color: #0f0e0e;
+}
